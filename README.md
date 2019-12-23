@@ -1,4 +1,4 @@
-Source code for manuscript "IA Utility Approach to Individualized Optimal Dose Selection Using Biomarkers" by Pin Li, Jeremy M.G. Taylor, Spring Kong, Shruti Jolly and Matthew J. Schipper. For questions, comments or remarks about the code please contact Pin Li (pinli@umich.edu).
+Source code for manuscript "A Utility Approach to Individualized Optimal Dose Selection Using Biomarkers" by Pin Li, Jeremy M.G. Taylor, Spring Kong, Shruti Jolly and Matthew J. Schipper. For questions, comments or remarks about the code please contact Pin Li (pinli@umich.edu).
 
 The code has been written using R with the following version information. The packages used are tmvtnorm, stats, ggplot2, glmnet, BB, numDeriv.
 
